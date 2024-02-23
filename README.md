@@ -1,6 +1,7 @@
 Prequisites:
  - Docker
  - Docker-compose
+
 How to run:
 ```
 docker-compose build
